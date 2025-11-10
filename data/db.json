@@ -6,6 +6,27 @@
       "description": "Testing 2",
       "date": "2025-11-16T02:30:00.000Z",
       "createdAt": "2025-11-09T02:29:53.944Z"
+    },
+    {
+      "id": 2,
+      "title": "Open Heaven",
+      "description": "Prayer and Healing",
+      "date": "2025-11-28T22:00:00.000Z",
+      "createdAt": "2025-11-09T21:46:52.040Z"
+    },
+    {
+      "id": 3,
+      "title": "End of the year Thanksgiving ",
+      "description": "On the second sunday of December, be there",
+      "date": "2025-12-14T16:00:00.000Z",
+      "createdAt": "2025-11-09T21:48:03.588Z"
+    },
+    {
+      "id": 4,
+      "title": "New year Service ",
+      "description": "Be there",
+      "date": "2026-01-01T06:30:00.000Z",
+      "createdAt": "2025-11-09T21:49:19.389Z"
     }
   ],
   "sermons": [
@@ -16,6 +37,22 @@
       "videoUrl": "https://www.youtube.com/watch?v=ML_vxFCB75E",
       "date": "2025-11-22T03:00:00.000Z",
       "createdAt": "2025-11-09T02:45:36.729Z"
+    },
+    {
+      "id": 2,
+      "title": "Pastor",
+      "speaker": "Pastor",
+      "videoUrl": "https://www.youtube.com/watch?v=ML_vxFCB75E",
+      "date": "2025-11-29T13:54",
+      "createdAt": "2025-11-09T21:51:03.311Z"
+    },
+    {
+      "id": 3,
+      "title": "Open Heaven",
+      "speaker": "Pastor Tunder Elebute",
+      "videoUrl": "https://www.youtube.com/watch?v=ML_vxFCB75E",
+      "date": "2025-11-09T13:51",
+      "createdAt": "2025-11-09T21:51:40.280Z"
     }
   ],
   "members": [
@@ -26,6 +63,22 @@
       "phone": "09023311459",
       "joinedAt": "2025-11-08T01:00:00.000Z",
       "createdAt": "2025-11-09T02:53:24.719Z"
+    },
+    {
+      "id": 2,
+      "name": "Charles Duff",
+      "email": "charlesduff700@gmail.com",
+      "phone": "09023311459",
+      "joinedAt": "2025-11-21T20:50",
+      "createdAt": "2025-11-09T04:47:00.694Z"
+    },
+    {
+      "id": 3,
+      "name": "Pastor Tunder Elebute",
+      "email": "arnoldcharles028@gmail.com",
+      "phone": "09023311459",
+      "joinedAt": "2025-11-09T21:52:10.309Z",
+      "createdAt": "2025-11-09T21:52:10.327Z"
     }
   ],
   "videos": [
@@ -36,6 +89,38 @@
       "description": "About Love",
       "uploadedAt": "2025-11-21T02:30:00.000Z",
       "createdAt": "2025-11-09T02:57:57.361Z"
+    },
+    {
+      "id": 2,
+      "title": "Hate",
+      "url": "https://www.youtube.com/watch?v=ML_vxFCB75E",
+      "description": "dyhntreynr",
+      "uploadedAt": "2025-11-09T04:00:00.507Z",
+      "createdAt": "2025-11-09T04:48:32.578Z"
+    },
+    {
+      "id": 3,
+      "title": "Cook",
+      "url": "https://www.youtube.com/watch?v=ML_vxFCB75E",
+      "description": "fueu",
+      "uploadedAt": "2025-11-28T08:00:00.000Z",
+      "createdAt": "2025-11-09T04:49:02.906Z"
+    },
+    {
+      "id": 4,
+      "title": "Open Heaven",
+      "url": "https://www.youtube.com/watch?v=ML_vxFCB75E",
+      "description": "About Open Heaven",
+      "uploadedAt": "2025-11-09T08:00:00.000Z",
+      "createdAt": "2025-11-09T21:53:25.522Z"
+    },
+    {
+      "id": 5,
+      "title": "Open Heaven",
+      "url": "https://www.youtube.com/watch?v=ML_vxFCB75E",
+      "description": "Open Heaven",
+      "uploadedAt": "2025-11-10T00:30:00.000Z",
+      "createdAt": "2025-11-10T00:20:31.361Z"
     }
   ],
   "blog": [
@@ -46,6 +131,54 @@
       "author": "Arnold",
       "publishedAt": "2025-11-09T03:06:13.545Z",
       "createdAt": "2025-11-09T03:06:13.585Z"
+    },
+    {
+      "id": 2,
+      "title": "Food",
+      "content": "love is caring but without food you cant love",
+      "author": "Stephany",
+      "publishedAt": "2025-11-28T08:00:00.000Z",
+      "createdAt": "2025-11-09T04:23:43.325Z"
+    },
+    {
+      "id": 3,
+      "title": "Open Heaven",
+      "content": "Open Heaven, What is open heaven",
+      "author": "Pastor Tunder Elebute",
+      "publishedAt": "2025-11-28T08:00:00.000Z",
+      "createdAt": "2025-11-09T22:41:21.235Z"
+    },
+    {
+      "id": 4,
+      "title": "Beast",
+      "content": "Love is patient and caring",
+      "author": "Charles Arnold",
+      "publishedAt": "2025-12-06T08:00:00.000Z",
+      "createdAt": "2025-11-09T23:28:16.744Z"
+    },
+    {
+      "id": 5,
+      "title": "Hate",
+      "content": "What is hate?\nHate is when you hate someone",
+      "author": "Charles Duff",
+      "publishedAt": "2025-11-09T08:00:00.000Z",
+      "createdAt": "2025-11-09T23:30:25.816Z"
+    },
+    {
+      "id": 6,
+      "title": "Chior",
+      "content": "Chior has full returned, thank God for that",
+      "author": "Arnold",
+      "publishedAt": "2025-11-10T00:00:00.000Z",
+      "createdAt": "2025-11-10T00:24:12.666Z"
+    },
+    {
+      "id": 7,
+      "title": "tyvfytjfvygkjbjuy",
+      "content": "gfvghkljn,gvgcdf dghjkg,h\nhgfvhgh",
+      "author": "jtvfhjkknbgkvuyf",
+      "publishedAt": "2025-11-17T00:00:00.000Z",
+      "createdAt": "2025-11-10T00:24:38.033Z"
     }
   ],
   "testimonies": [
@@ -55,6 +188,13 @@
       "message": "I thank God for life",
       "date": "2026-01-25T03:00:00.000Z",
       "createdAt": "2025-11-09T03:20:50.815Z"
+    },
+    {
+      "id": 2,
+      "name": "tomboy ",
+      "message": "utrvfutvdkjfyuvdngf uvjgcvdsgvydfvyjgdfgls\ngfuhjgfbsdftguybgvfyu",
+      "date": "2025-11-26T22:30:00.000Z",
+      "createdAt": "2025-11-10T00:21:10.909Z"
     }
   ],
   "about": [
